@@ -10,7 +10,7 @@ Conceitos básicos Node.js
 
 <p align="center">
   <span>Português</span> |
-  <a href="https://github.com/fernmach/gostack-template-conceitos-nodejs/README.en.md">English</a>
+  <a href="https://github.com/fernmach/gostack-template-conceitos-nodejs/blob/master/README.en.md">English</a>
 </p>
 
 ---
