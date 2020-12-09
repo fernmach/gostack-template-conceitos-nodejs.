@@ -8,8 +8,8 @@ Bootcamp Gostack Challenge 02
 Node.js basic concepts
 </h4>
 
-<p align="center">  
-  <a href="README.md">Português</a>
+<p align="center">
+  <a href="README.md">Português</a> | 
   <a href="README.en.md">English</a>
 </p>
 
